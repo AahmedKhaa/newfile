@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/411/966/424/wave-minimal-lg-v30-stock-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login {
+  width: 400px;
+  background: #fff;
+  border: 1px solid #dddfe2;
+  /* box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  border-radius: 8px; */
+  border: 1px soid rgba(255, 255, 255, 0.3);
+  box-shadow: 2px 2px 15px;
+  padding: 1rem;
+  align-items: center;
+  text-align: center;
+  margin: 15% 5% 10% 40%;
+  box-shadow: 0 0 15px 5px grey;
+}
+
+.login input {
+  border-radius: 8px;
+  border: 2px solid #dddfe2;
+  outline: none;
+  color: #1d2129;
+  margin: 0.5rem 0;
+  background: transparent;
+  padding: 0.5rem 0.75rem;
+  width: 92%;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.login > .button {
+  background: #1877f2;
+  border: 1px solid #1877f2;
+  color: #fff;
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
